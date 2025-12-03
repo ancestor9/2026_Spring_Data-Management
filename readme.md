@@ -5,7 +5,7 @@
 - 3명 ~ 5명 내외로 외국인/한국인을 1명을 반드시 포함한 팀을 구성하라
 
 ### 공부할 내용
-- Module, Library, Package, API, RestAPI, FastAPI, google gemini API
+- Module, Library, Package, API, RestAPI, FastAPI, google gemini API (ppt 파일)
 
 ### Homeworks
 - 1. 도서대여시스템(pydantic, type 등의 모듈을 사용하여 OOP)
