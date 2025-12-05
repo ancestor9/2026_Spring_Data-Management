@@ -6,6 +6,13 @@
 
 ### 공부할 내용
 - Module, Library, Package, API, RestAPI, FastAPI, google gemini API (ppt 파일)
+-     15주 액션러닝 흐름(아주 간단 버전)
+      1–2주차: 문제 찾기·데이터 탐색, FastAPI 맛보기
+      3–5주차: 기본 ML(지도학습 중심) 학습 + 간단 모델 구현
+      6–8주차: 모델 고도화 + FastAPI로 API 만들기
+      9–11주차: 프론트 연동(간단 HTML/JS) + 성능·사용자 흐름 개선
+      12–14주차: 테스트, 배포(로컬/클라우드) 시뮬레이션 + 회고
+      15주차: 최종 발표 + 개인·팀 성찰 리포트
 
 ### Homeworks
 - 1. 도서대여시스템(pydantic, type 등의 모듈을 사용하여 OOP)
