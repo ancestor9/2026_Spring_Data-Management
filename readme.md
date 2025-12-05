@@ -7,10 +7,10 @@
 ### 공부할 내용
 - Module, Library, Package, API, RestAPI, FastAPI, google gemini API (ppt 파일)
 
-| 컬럼 1 제목 | 컬럼 2 제목 | 컬럼 3 제목 |
+| 제목 | 내용 | 기술 |
 | :--- | :---: | ---: |
-| 데이터 A1 | 데이터 B1 | 데이터 C1 |
-| 데이터 A2 | 데이터 B2 | 데이터 C2 |
+| 파이썬 OOP | 함수, 클라스, 모듈/라이브러리/패키지  | Python |
+| FastAPI | 가상환경, API구현, [stitch](https://stitch.withgoogle.com/) UI + FastAPI| [FastAPI](https://fastapi.tiangolo.com/ko/), [uv python](https://github.com/astral-sh/uv), VS Code(Thunder client 확장), [REQBIN](https://reqbin.com/)|
 | 데이터 A3 | 데이터 B3 | 데이터 C3 |
 
 
