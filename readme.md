@@ -7,7 +7,7 @@
 ### 공부할 내용
 - Module, Library, Package, API, RestAPI, FastAPI, google gemini API (ppt 파일)
 
-| 제목 | 내용 | 기술 | 과제 |
+| 제목(Title) | 내용(Contents) | 학습 기술(모듈) | 과제(Homework) |
 | --- | --- | --- | --- |
 | 파이썬 OOP | 함수, 클래스, 모듈/라이브러리/패키지 | Python, [faker](https://faker.readthedocs.io/en/master/) | 1. 도서 대여 시스템 (pydantic, type 등 활용한 OOP) <br> 2. ETL Pipeline 서비스 만들기 (faker/AdventureSales, [gradio](https://www.gradio.app/)) |
 | FastAPI | 컴퓨터 네트워크(Client–Server), 가상환경, API 구현, [stitch](https://stitch.withgoogle.com/) UI + FastAPI | [FastAPI](https://fastapi.tiangolo.com/ko/), [uv](https://github.com/astral-sh/uv), VS Code(Thunder Client), [REQBIN](https://reqbin.com/) | 3. 블로그 CRUD 만들기 (FastAPI + Streamlit) |
