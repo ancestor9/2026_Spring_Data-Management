@@ -6,6 +6,11 @@
 
 ### 공부할 내용
 - Module, Library, Package, API, RestAPI, FastAPI, google gemini API (ppt 파일)
+
+|제목|내용 |가술 |
+| | | |
+
+
 -     15주 액션러닝 흐름(아주 간단 버전)
       1–2주차: 문제 찾기·데이터 탐색, FastAPI 맛보기
       3–5주차: 기본 ML(지도학습 중심) 학습 + 간단 모델 구현
