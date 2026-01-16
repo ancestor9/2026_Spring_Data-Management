@@ -22,13 +22,5 @@
 | FastAPI | 컴퓨터 네트워크(Client–Server), 가상환경, API 구현, [stitch](https://stitch.withgoogle.com/) UI + FastAPI | [FastAPI](https://fastapi.tiangolo.com/ko/), [uv](https://github.com/astral-sh/uv), VS Code(Thunder Client), [reqbin](https://reqbin.com/) | 3. 블로그 CRUD 만들기 (FastAPI + Streamlit), 머신러닝 모델을 백엔드로 하는 예측 서비스 만들기 [Streamlit](https://streamlit.io/) |
 | MVC(Model-View-Controller) | Modern Web Architecture | Database([sqlite3](https://sqlite.org/), [firebase](https://firebase.google.com/), [supabase](https://supabase.com/)), ngrok( | 5. 도서관 관리시스템을 도서대여/반납을 몬테카를로 시뮬레이션으로 수행하여 MVC 아키텍쳐로 만들고 외부 url 배포하기|
 
--     15주 액션러닝 흐름(아주 간단 버전)
-      1–2주차: 문제 찾기·데이터 탐색, FastAPI 맛보기
-      3–5주차: 기본 ML(지도학습 중심) 학습 + 간단 모델 구현
-      6–8주차: 모델 고도화 + FastAPI로 API 만들기
-      9–11주차: 프론트 연동(간단 HTML/JS) + 성능·사용자 흐름 개선
-      12–14주차: 테스트, 배포(로컬/클라우드) 시뮬레이션 + 회고
-      15주차: 최종 발표 + 개인·팀 성찰 리포트
-
 ### 추가 과제
 - 쳇봇 Agent 만들기 (Vibecode Gemini API)
