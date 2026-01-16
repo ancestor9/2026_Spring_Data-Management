@@ -13,9 +13,8 @@
 | 제목(Title) | 내용(Contents) | 기술(Module, Library, Package) | 과제(Homework) |
 | --- | --- | --- | --- |
 | Fluent Python | 파이썬 OOP, 함수, 클래스, 모듈/라이브러리/패키지 | Python, [faker](https://faker.readthedocs.io/en/master/) | 1. 도서 대여 시스템 (pydantic, type 등 활용한 OOP) <br> 2. ETL Pipeline 서비스 만들기 (faker/AdventureSales, [gradio](https://www.gradio.app/)), [비동기방식](https://www.youtube.com/watch?v=yYD_brv9R0o) <br>3. seoul_traffic_accidents.csv로 EDA/시각화/기본통계분석/예측하기, 시각화는 colab 시작하기 등|
-| 통계(Statistics) | 평균과 분산 등 기초 통계량 이해 |데이터 유형(Data Type) 등 기초통계분석 |
+| 통계(Statistics) | 평균과 분산 등 기초 통계량 이해 |데이터 유형(Data Type) 등 기초통계분석,  평균과 분산 등 기초 통계량 이해 |
 | 확률(Probability Theory) | 확률분포(Probability Distribution), 동시확률, 조건부 확률 등 | 모집단과 샘플, 샘플링의 종류, Central Limit Thereom, Parameter 이해|
-| 기초통계분석 | 평균과 분산 등 기초 통계량 이해 | |
 | 회귀분석(Regression Analysis) | 단순회귀분석과 다중회귀분석의 Parameters, 손실함수(Loss Function)과 최적화(Optimization) | 평가지표(MSE, MAE) |
 | Machine Learning | 머신러닝 수행 절차 및 알고리즘 이해 실습 | [scikit-learn](https://scikit-learn.org/stable/), [keras](https://keras.io/)| |
 | 딥러닝(Deep Learning) | 딥러닝 아키텍쳐 및 알고리즘 이해 실습 | backpropagation(미분) [keras](https://keras.io/), [tensorflow](https://www.tensorflow.org/?hl=ko), [pytorch](https://pytorch.org/) |  |
