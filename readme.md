@@ -1,13 +1,17 @@
 
 ## 데이터관리론_Syllabus
+### 1. 학습 목표
+- ADsP 자격증 취득을 위한 개념, 용어 이해 및 Python 실습
+- AI 빅데이터에 필수적인 기초 수학(확률, 통계, 선형대수 등)중 필수적인 내용만 학습
+- 데이터 분석과 예측에 필요한 이론 및 기술 습득
+- FastAPI를 BackEnd로 구성하고 FrontEnd 구현으로 Client Server아키텍쳐 외부 서비스 구현
 
-### 1. 수업진행 및 평가방식
+### 2. 수업진행 및 평가방식
 - 개인별 github 를 만들고 GitHubDeskTop을 설치하여 sync(동기화)하라(개인 포트폴리오) : 매 주 수업종료시 Check후 점수 부여하겠음
 - 3명 ~ 5명 내외로 외국인/한국인을 1명을 반드시 포함한 팀을 구성하라(Action Learning)
-- 매 주 강의는 동영상(총 25분)을 선행학습하고 수업시간에는 과제설명이후 과제제출
 - 평가는 출석(20%), 팀/개인 평가(team/peer reviews)(30%, 50%)하여 학점 부여 방식
 
-### 2. 공부할 내용
+### 3. 교과 내용
 - [Notion_click](https://www.notion.so/2026_Spring_Data-Management-2ea49ab460ef80b99efcfea2d97aba98?showMoveTo=true&saveParent=true)
 
 | 제목(Title) | 내용(Contents) | 기술(Module, Library, Package) | 과제(Homework) |
