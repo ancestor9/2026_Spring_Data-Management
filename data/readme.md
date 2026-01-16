@@ -9,7 +9,7 @@
             비율 척도 (Ratio): 절대적 '0'점이 존재하며 사칙연산이 모두 가능 (예: 키, 몸무게, 매출액).
 
 ### 2. 기초통계 분석
-- 고객관계관리분석(CRM, Customer Relationship Management)
-- 시각화 실습(Histogram에 대한 이해)
 
-  [CRM Practice Data set for CRM Data Analysis](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
+            고객관계관리분석(CRM, Customer Relationship Management)
+            시각화 실습(Histogram에 대한 이해)
+            [CRM Practice Data set for CRM Data Analysis](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
