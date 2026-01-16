@@ -17,7 +17,7 @@
 
 ### 3. 확률분포(Probability Distribution)
 - human_data.csv에서 모집단과 샘플, 샘픞링의 종류, Central Limit Thereom, Parameter 이해
-- human_data.csv를 바탕으로 몸
+- human_data.csv를 바탕으로 height, weight, foot size가 6.19, 140.28, 7.54 인 사람의 성별을 예측하라
 
             확률변수(Random Variables)와 기대값(Expected Valuse)
             과거 데이터로 패턴(Pattern)을 배운다는 것은 확률분포를 배운다라는 것과 동일하다.
