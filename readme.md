@@ -9,7 +9,7 @@
 ### 2. 수업진행 및 평가방식
 - 개인별 github 를 만들고 GitHubDeskTop을 설치하여 sync(동기화)하라(개인 포트폴리오) : 매 주 수업종료시 Check후 점수 부여하겠음
 - 3명 ~ 5명 내외로 외국인/한국인을 1명을 반드시 포함한 팀을 구성하라(Action Learning)
-- 평가는 출석(20%), 팀/개인 평가(team/peer reviews)(30%, 50%)하여 학점 부여 방식 (Peer Review 진행)
+- 평가는 출석(20%), 팀/개인 평가(team/peer reviews)(30%, 50%)하여 학점 부여 방식 (Peer Review 점수 반영)
 
 ### 3. 교과 내용
 - [Notion_click](https://www.notion.so/2026_Spring_Data-Management-2ea49ab460ef80b99efcfea2d97aba98?showMoveTo=true&saveParent=true)
