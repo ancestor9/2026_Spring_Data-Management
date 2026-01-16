@@ -17,9 +17,33 @@
 
 ### 3. 확률분포(Probability Distribution)
 - human_data.csv에서 모집단과 샘플, 샘픞링의 종류, Central Limit Thereom, Parameter 이해
-- human_data.csv를 바탕으로 height, weight, foot size가 6.19, 140.28, 7.54 인 사람의 성별을 예측하라
+-             human_data.csv를 바탕으로 height, weight, foot size가 6.19, 140.28, 7.54 인 사람의 성별을 예측하라
 
             확률변수(Random Variables)와 기대값(Expected Valuse)
             과거 데이터로 패턴(Pattern)을 배운다는 것은 확률분포를 배운다라는 것과 동일하다.
             디양한 확률분포 이해(베르누이, 이항분포, 정규분포 등)
-            
+
+### 4. 조건부확률분포(Conditional Probability Distribution)
+
+### 5. 회귀분석(Regression Analysis)
+
+            단순회귀분석과 다중회귀분석의 Parameters
+            손실함수(Loss Function)과 최적화(Optimization)
+            평가지표(MSE, MAE)
+
+### 6. 주요 머신러닝 알고리즘
+
+            알고리즘 이론 및 파이썬 scikit-learn 모듈 실습
+            모형의 선택과 평가에 대한 이해 및 실습
+            평가지표(confusion matrix, ROC, PR, recall, precision, accuracy, f1-score 등)
+
+### 6. 딥러닝(Deep Learning)
+- FNN(Fully Connected Feedforward Neural Network) 이해
+            선형대수와 내적(Linear Algebra & Inner Prodcut)
+            Perceptron, Shallow/Deep learning Architecture
+            Activation Fuctions
+            stochastice Gradient Descent, Optimizer, Loss Function
+            backpropagation(미분)
+
+### 7. FastAPI
+- 예측모형을 외부에 서비스하는 기술
