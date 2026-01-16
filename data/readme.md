@@ -14,4 +14,10 @@
             고객관계관리분석(CRM, Customer Relationship Management)
             평균과 분산의 의미, 중앙값, 최빈값, 이상치 등
             시각화 실습(Histogram에 대한 이해)
+
+### 3. 확륣분포(Probability Distribution)
+
+            확률변수(Random Variables)와 기대값(Expected Valuse)
+            과거 데이터로 패턴(Pattern)을 배운다는 것은 확률분포를 배운다라는 것과 동일하다.
+            디양한 확률분포 이해(베르누이, 이항분포, 정규분포 등)
             
