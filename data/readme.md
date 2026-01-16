@@ -46,4 +46,4 @@
             backpropagation(미분)
 
 ### 7. FastAPI
-- 예측모형을 외부에 서비스하는 기술
+- 예측모형을 외부에 서비스하는 기술([FastAPI](https://fastapi.tiangolo.com/ko/)
