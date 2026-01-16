@@ -8,7 +8,7 @@
 - 평가는 출석(20%), 팀/개인 평가(team/peer reviews)(30%, 50%)하여 학점 부여 방식
 
 ### 2. 공부할 내용
-- Module, Library, Package, API, RestAPI, FastAPI, google gemini API (ppt 파일)
+- [Notion_click](https://www.notion.so/2026_Spring_Data-Management-2ea49ab460ef80b99efcfea2d97aba98?showMoveTo=true&saveParent=true)
 
 | 제목(Title) | 내용(Contents) | 기술(Module, Library, Package) | 과제(Homework) |
 | --- | --- | --- | --- |
