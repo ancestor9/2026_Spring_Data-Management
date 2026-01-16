@@ -1,3 +1,3 @@
 ## 실습 데이터
 
-[](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
+[CRM Practice Data set for CRM Data Analysis](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
