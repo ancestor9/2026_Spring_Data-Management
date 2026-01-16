@@ -6,7 +6,7 @@
 - 데이터 분석과 예측에 필요한 이론 및 기술 습득
 - FastAPI를 BackEnd로 구성하고 FrontEnd 구현으로 Client Server아키텍쳐 외부 서비스 구현
 
-### 2. 수업진행 및 평가방식
+### 2. 수업 진행 및 평가 방식
 - 3명 ~ 5명 내외로 외국인/한국인을 1명을 반드시 포함한 팀을 구성하라
 - 평가는 출석(20%), 개인 및 팀평가(30%, 50%)하여 학점 부여 방식 (Quiz, Peer Review 등 점수 반영)
 -     github를 개인별로 반드시 만들고 GitHubDeskTop을 설치하여 수업종료시 교수에게 공개하여야 한다. - 점수 부여 대상
@@ -23,6 +23,3 @@
 | Machine Learning | 머신러닝 수행 절차 및 알고리즘 이해 실습 | [scikit-learn](https://scikit-learn.org/stable/), [keras](https://keras.io/)| |
 | 딥러닝(Deep Learning) | 딥러닝 아키텍쳐 및 알고리즘 이해 실습 | backpropagation(미분) [keras](https://keras.io/), [tensorflow](https://www.tensorflow.org/?hl=ko), [pytorch](https://pytorch.org/) |  |
 | FastAPI | 컴퓨터 네트워크(Client–Server), 가상환경, API 구현, [stitch](https://stitch.withgoogle.com/) UI + FastAPI | [FastAPI](https://fastapi.tiangolo.com/ko/), [uv](https://github.com/astral-sh/uv), VS Code(Thunder Client), [reqbin](https://reqbin.com/) | 3. 블로그 CRUD 만들기 (FastAPI + Streamlit), 머신러닝 모델을 백엔드로 하는 예측 서비스 만들기 [Streamlit](https://streamlit.io/) |
-
-### 추가 과제
-- 쳇봇 Agent 만들기 (Vibecode Gemini API)
